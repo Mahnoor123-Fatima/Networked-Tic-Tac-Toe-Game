@@ -29,7 +29,8 @@ tie.
 
 open command prompt ant type the following command:
 ```
-git clone https://github.com/Mahnoor123-Fatima/Image-Classifier-for-Fashion_MNIST-Dataset.git
+git clone https://github.com/Mahnoor123-Fatima/Networked-Tic-Tac-Toe-Game.git
+
 ```
 
 ## Enjoy!
